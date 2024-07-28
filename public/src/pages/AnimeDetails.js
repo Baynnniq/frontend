@@ -1,0 +1,1 @@
+AnimeDetails.js
